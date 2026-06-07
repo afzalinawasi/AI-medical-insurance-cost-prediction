@@ -318,7 +318,7 @@ The app automatically creates the same engineered features used during model tra
 - Which model features have the strongest impact on predicted charges?
 - Why was the final model selected for deployment?
 
-**View the Streamlit app here:** Link 
+**View the Streamlit app here:** [Link](https://ai-medical-insurance-cost-prediction.streamlit.app/) 
 
 ---
 ## Project files
