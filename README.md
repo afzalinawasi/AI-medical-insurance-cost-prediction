@@ -243,10 +243,7 @@ Linear Regression achieved the lowest Mean CV RMSE and highest Mean CV R² among
 ---
 ## Final model selection
 
-The final selected model is:
-```
-Linear Regression - Original Charges
-```
+The final selected model is **Linear Regression**, trained to predict the original insurance charges directly.
 
 **Reasons for selection:**
 
